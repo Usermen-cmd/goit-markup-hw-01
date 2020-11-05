@@ -2,3 +2,31 @@
   margin: 0;
   padding: 0;
 }
+.main-command__container {
+  display: inline-block;
+  text-align: center;
+  width: 270px;
+  height: 368px;
+  box-shadow: 5px 5px 10px -5px rgb(0, 0, 0);
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.main-command__image {
+  background-size: cover;
+  background-position-x: center;
+  width: 270px;
+  height: 260px;
+}
+.igor {
+  background-image: url(../img/01b0562402f9066520924acac0be8dc7.jpg);
+}
+.olga {
+  background-image: url(../img/8ed9ff0c05008e3e7ae5285b05efd211.jpg);
+}
+.nicolai {
+  background-image: url(../img/c03fb848ed9dfc89543bbe97156c3661.jpg);
+}
+.muhail {
+  background-image: url(../img/7ff905b2d5f56aa0d2b29aa48e997cd8.jpg);
+}
