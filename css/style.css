@@ -1,4 +1,8 @@
-.main-command__container {
+.main-command-list {
+  display: flex;
+  list-style-type: none;
+}
+.main-team__container {
   display: inline-block;
   text-align: center;
   width: 270px;
@@ -8,7 +12,7 @@
   margin: 10px;
 }
 
-.main-command__image {
+.main-team__image {
   background-size: cover;
   background-position-x: center;
   width: 270px;
